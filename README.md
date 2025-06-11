@@ -20,6 +20,7 @@ This mock analytics project showcases how an insurance company might use **Datab
 | `Claims_v3.csv` | Mock claims data including type, status, and amount |
 | `Adjusters_v3.csv` | Adjuster assignment info |
 | `insurance_project_notebook.ipynb` | Jupyter notebook with PySpark code for cleaning, joining, and analyzing data |
+| `Insurance_Claims_Analytics_with_Databricks___Power_BI.csv` | Final cleaned CSV used for Power BI |
 | `insurance_dashboard.pbix` | Power BI file with visuals (claims by type, payout analysis, adjuster performance, etc.) |
 
 ---
@@ -52,10 +53,11 @@ Planned visuals include:
    - Import the notebook to your workspace
    - Upload CSVs to `/FileStore/tables/`
    - Run each cell step by step
+   - Export dataframe manually to final CSV file
 
 2. **Power BI**:
    - Open `.pbix` file
-   - Refresh data source to re-point to CSVs (or web links)
+   - Refresh data source to re-point to final CSV
 
 ---
 
