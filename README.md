@@ -70,7 +70,7 @@ Planned visuals include:
 ## 📬 Contact
 
 Eric Meers-Berg  
-[ericmeersberg@gmail.com](mailto:ericmeersberg@gmail.com)  
+[emeersberg@gmail.com](mailto:ericmeersberg@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/your-link)
 
 ---
