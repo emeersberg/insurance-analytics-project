@@ -71,7 +71,7 @@ Planned visuals include:
 
 Eric Meers-Berg  
 [emeersberg@gmail.com](mailto:ericmeersberg@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/your-link)
+[LinkedIn](https://www.linkedin.com/in/ericmeersberg/)
 
 ---
 
