@@ -62,7 +62,13 @@ Planned visuals include:
 ---
 
 ## 🔍 Power BI Dashboard Screenshots
+![image](https://github.com/user-attachments/assets/f5c4799f-4ae4-4dc2-bc63-386e944e3ff0)
 
+![image](https://github.com/user-attachments/assets/20bb71f4-c6c0-40e5-8d37-d8a2a7c589f4)
+
+![image](https://github.com/user-attachments/assets/eb9e1471-b902-4d86-b262-f8711a7e5790)
+
+![image](https://github.com/user-attachments/assets/a6de3128-ee6e-4344-a475-29f05f57b798)
 
 ---
 
