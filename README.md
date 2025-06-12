@@ -66,6 +66,10 @@ Planned visuals include:
 
 ![image](https://github.com/user-attachments/assets/be8d3b7e-01fb-4a45-9355-cdc31418efe3)
 
+![image](https://github.com/user-attachments/assets/bdb29ef2-6b00-4fd4-9d0d-79837bd85808)
+
+![image](https://github.com/user-attachments/assets/5cc9b654-9b1a-422b-9db4-d7b42edcc9a8)
+
 ---
 
 ## 🔍 Future Improvements
