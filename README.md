@@ -16,9 +16,9 @@ This mock analytics project showcases how an insurance company might use **Datab
 
 | File | Description |
 |------|-------------|
-| `Policy_Holders_v3.csv` | Mock dataset of policyholders |
-| `Claims_v3.csv` | Mock claims data including type, status, and amount |
-| `Adjusters_v3.csv` | Adjuster assignment info |
+| `Policy_Holders_v6.csv` | Mock dataset of policyholders |
+| `Claims_v6.csv` | Mock claims data including type, status, and amount |
+| `Adjusters_v6.csv` | Adjuster assignment info |
 | `insurance_project_notebook.ipynb` | Jupyter notebook with PySpark code for cleaning, joining, and analyzing data |
 | `Insurance_Claims_Analytics_with_Databricks___Power_BI.csv` | Final cleaned CSV used for Power BI |
 | `insurance_dashboard.pbix` | Power BI file with visuals (claims by type, payout analysis, adjuster performance, etc.) |
